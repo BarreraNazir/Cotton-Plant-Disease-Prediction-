@@ -1,1 +1,1 @@
-# Cotton-Plant-Disease-Prediction-
+# Cotton-Plant-Disease-Prediction-Using_CNN-Model
