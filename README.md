@@ -1,10 +1,10 @@
  # Cotton-Plant-Disease-Prediction-Using-Deep-Learning
 
-**Problem Identification** = 
+**Problem Identification** 
 
 The production of cotton reducing gradually over the year because of major cotton diseases which impact their production very much on some common diseases like insect attacks, charcoal rot, and many more. The problem will be solved if the farmer gets to know about the plants which are infected and diseased in the early stages of their growth so that farmers can use pesticides and different medicinal pieces of equipment to sprinkles medicines over plants and save their crops from diseases in early stages of production.
 
-**Goal** = Automatic system designed to detect the disease from cotton plant leaves using convolutional neural network.
+**Goal**  Automatic system designed to detect the disease from cotton plant leaves using convolutional neural network.
 
 **Getting Started**
 
